@@ -1,0 +1,18 @@
+[
+  {
+    "decline_reason_id": 1,
+    "decline_reason": "Insufficient Funds"
+  },
+  {
+    "decline_reason_id": 2,
+    "decline_reason": "Fraud Suspected"
+  },
+  {
+    "decline_reason_id": 3,
+    "decline_reason": "Limit Exceeded"
+  },
+  {
+    "decline_reason_id": 4,
+    "decline_reason": null
+  }
+]

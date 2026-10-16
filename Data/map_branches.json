@@ -1,0 +1,62 @@
+[
+  {
+    "branch_id": 1,
+    "branch": "New York Main",
+    "city": "New York",
+    "region": "Northeast"
+  },
+  {
+    "branch_id": 2,
+    "branch": "Los Angeles Downtown",
+    "city": "Los Angeles",
+    "region": "West"
+  },
+  {
+    "branch_id": 3,
+    "branch": "Chicago Loop",
+    "city": "Chicago",
+    "region": "Midwest"
+  },
+  {
+    "branch_id": 4,
+    "branch": "Houston Galleria",
+    "city": "Houston",
+    "region": "South"
+  },
+  {
+    "branch_id": 5,
+    "branch": "Phoenix Central",
+    "city": "Phoenix",
+    "region": "Southwest"
+  },
+  {
+    "branch_id": 6,
+    "branch": "Philadelphia Center",
+    "city": "Philadelphia",
+    "region": "Northeast"
+  },
+  {
+    "branch_id": 7,
+    "branch": "San Antonio Riverwalk",
+    "city": "San Antonio",
+    "region": "South"
+  },
+  {
+    "branch_id": 8,
+    "branch": "San Diego Bay",
+    "city": "San Diego",
+    "region": "West"
+  },
+  {
+    "branch_id": 9,
+    "branch": "Dallas Uptown",
+    "city": "Dallas",
+    "region": "South"
+  },
+  {
+    "branch_id": 10,
+    "branch": "San Jose Tech",
+    "city": "San Jose",
+    "region": "West"
+  }
+]

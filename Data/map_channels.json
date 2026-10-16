@@ -1,0 +1,42 @@
+[
+  {
+    "channel_id": 1,
+    "channel": "Online Payment",
+    "description": "E-commerce",
+    "base_rate": 0.25,
+    "percentage_fee": 0.015,
+    "per_minute": 0.00
+  },
+  {
+    "channel_id": 2,
+    "channel": "TPE",
+    "description": "Card Present",
+    "base_rate": 0.10,
+    "percentage_fee": 0.010,
+    "per_minute": 0.00
+  },
+  {
+    "channel_id": 3,
+    "channel": "ATM",
+    "description": "Cash Withdrawal",
+    "base_rate": 2.50,
+    "percentage_fee": 0.000,
+    "per_minute": 0.00
+  },
+  {
+    "channel_id": 4,
+    "channel": "Mobile App",
+    "description": "P2P Transfer",
+    "base_rate": 0.00,
+    "percentage_fee": 0.000,
+    "per_minute": 0.00
+  },
+  {
+    "channel_id": 5,
+    "channel": "Branch",
+    "description": "In-person",
+    "base_rate": 1.00,
+    "percentage_fee": 0.005,
+    "per_minute": 0.00
+  }
+]

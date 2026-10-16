@@ -1,0 +1,12 @@
+[
+  {
+    "transaction_status_id": 1,
+    "transaction_status": "Approved",
+    "is_completed": true
+  },
+  {
+    "transaction_status_id": 2,
+    "transaction_status": "Declined",
+    "is_completed": false
+  }
+]

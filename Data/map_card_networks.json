@@ -1,0 +1,30 @@
+[
+  {
+    "card_network_id": 1,
+    "card_network": "Visa"
+  },
+  {
+    "card_network_id": 2,
+    "card_network": "Mastercard"
+  },
+  {
+    "card_network_id": 3,
+    "card_network": "Amex"
+  },
+  {
+    "card_network_id": 4,
+    "card_network": "UnionPay"
+  },
+  {
+    "card_network_id": 5,
+    "card_network": "Discover"
+  },
+  {
+    "card_network_id": 6,
+    "card_network": "JCB"
+  },
+  {
+    "card_network_id": 7,
+    "card_network": "Diners Club"
+  }
+]
