@@ -3,60 +3,70 @@
     "branch_id": 1,
     "branch": "New York Main",
     "city": "New York",
-    "region": "Northeast"
+    "region": "Northeast",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 2,
     "branch": "Los Angeles Downtown",
     "city": "Los Angeles",
-    "region": "West"
+    "region": "West",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 3,
     "branch": "Chicago Loop",
     "city": "Chicago",
-    "region": "Midwest"
+    "region": "Midwest",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 4,
     "branch": "Houston Galleria",
     "city": "Houston",
-    "region": "South"
+    "region": "South",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 5,
     "branch": "Phoenix Central",
     "city": "Phoenix",
-    "region": "Southwest"
+    "region": "Southwest",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 6,
     "branch": "Philadelphia Center",
     "city": "Philadelphia",
-    "region": "Northeast"
+    "region": "Northeast",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 7,
     "branch": "San Antonio Riverwalk",
     "city": "San Antonio",
-    "region": "South"
+    "region": "South",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 8,
     "branch": "San Diego Bay",
     "city": "San Diego",
-    "region": "West"
+    "region": "West",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 9,
     "branch": "Dallas Uptown",
     "city": "Dallas",
-    "region": "South"
+    "region": "South",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   },
   {
     "branch_id": 10,
     "branch": "San Jose Tech",
     "city": "San Jose",
-    "region": "West"
+    "region": "West",
+    "updated_at" : "2026-10-21T01:29:56.750+00:00"
   }
 ]
